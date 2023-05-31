@@ -1,0 +1,15 @@
+.cont-card-carousel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 600px;
+    background-color: #4a5056;
+    border-radius: 10px;
+}
+.cont-main-carousel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 94vh;
+}
